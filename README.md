@@ -20,18 +20,18 @@ De plus, nous cherchons à visualiser divers aspects de nos données de ventes d
 ## MÉTHODOLOGIE
 
 Cette section présente la méthodologie utilisée pour mener ce projet en utilisant SQL server management studio et PowerBI pour la manipulation, l'analyse et la visualisation des données. L'analyse avec SQL a permis de manipuler les données de ventes de pizzas, tandis que la visualisation avec PowerBI a permis de présenter les insights obtenus.
-![Image Data](Images/schema.png)
+![Image Data](schema.png)
 
 
 ## Visualisation des données
 Le rapport est composé de 2 pages :
 * Home:
 
-![Image Home](Images/Home.PNG)
+![Image Home](Home.PNG)
 
 * Best/worst sellers:
 
-![Image Details](Images/best_worst_sellers.PNG)
+![Image Details](best_worst_sellers.PNG)
 
 
 ## RÉSUMÉ DES INSIGHTS CLÉS
